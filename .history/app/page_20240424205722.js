@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Chart from '../pages/chart';
+import Chart from '../components/chart';
 
 export default function Home() {
   return (

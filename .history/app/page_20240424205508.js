@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import Chart from '../pages/chart';
+import Image from "next/image";
+import styles from "./page.module.css";
 
 export default function Home() {
   return (
